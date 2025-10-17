@@ -12,7 +12,7 @@
 - 🎨 I express creativity through **video editing** and **graphic designing**  
 - 💡 Fun fact: I can spend hours adjusting layouts just to make them *feel right*  
 
-## 💻 Languages & Technologies
+### 💻 Languages & Technologies
 
 | Category | Technologies |
 |:----------|:--------------|
@@ -22,22 +22,18 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Design / Editing** | ![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-a78cd9?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-b197d6?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9a84c3?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-b6a0d4?style=for-the-badge&logo=canva&logoColor=white) |
 
-## ⚙️ Tools I Use
+### ⚙️ Tools I Use
 
 | Development | Design & Creativity |
 |:-------------|:--------------------|
 | ![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-a78cd9?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-bb9cd3?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Dev C++](https://img.shields.io/badge/Dev%20C++-9a84c3?style=for-the-badge&logo=dev.to&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-a78cd9?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-b197d6?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9a84c3?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-b6a0d4?style=for-the-badge&logo=canva&logoColor=white) |
 
----
-
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 - Data Science foundations  
 - Machine Learning algorithms  
 - Data visualization with Python  
 - Portfolio design with HTML/CSS  
-
----
 
 ### 🎨 My Creative Side
 
@@ -45,28 +41,19 @@
 🎨 **Graphic Designing:** Photoshop, Illustrator, Canva, Figma  
 💡 **Creative Focus:** Branding, Layout Design, Color Aesthetics, Storytelling  
 
----
-
 ### 💫 GitHub Stats
 
 ![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haleemayasir&show_icons=true&theme=tokyonight&title_color=bb9cd3&icon_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=haleemayasir&theme=tokyonight&border_radius=5&ring=bb9cd3&fire=bb9cd3&currStreakLabel=d6c6ec)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haleemayasir&layout=compact&theme=tokyonight&title_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)
 
----
-
 ### 💫 My Vision
 
 > “To merge technology and creativity — building tools that are functional, meaningful, and beautiful.”
 
----
-
 ### 🌷 Let’s Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haleemayasir)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haleema-yasir)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-a78cd9?style=for-the-badge&logo=firefox&logoColor=white)](https://www.behance.net/haleemayasir_)
+[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haleemayasir)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haleema-yasir)  [![Portfolio](https://img.shields.io/badge/Portfolio-a78cd9?style=for-the-badge&logo=firefox&logoColor=white)](https://www.behance.net/haleemayasir_)
 
----
 
 🌸 *Thanks for visiting! Wishing you a day full of creativity and inspiration.* 💕
