@@ -7,14 +7,11 @@
 
 ---
 
-### 👩‍💻 About Me
+### ~About Me
 
-- 🎓 Studying Computer Science with a focus on *problem-solving and design thinking*  
-- 🌱 Currently learning **Data Science** and **Machine Learning**  
+- 🎓 Studying Computer Science with a focus on *problem-solving and design thinking*. My interest is **Data Science** and **Machine Learning**. 
 - 🧠 I enjoy exploring algorithms, clean code, and new tech trends  
 - 🎨 I express creativity through **video editing** and **graphic designing**  
-- 💬 Love collaborating, learning, and building useful projects  
-- 🎯 *Goal:* Combine creativity + logic to design meaningful digital solutions  
 - 💡 Fun fact: I can spend hours adjusting layouts just to make them *feel right*  
 
 ---
