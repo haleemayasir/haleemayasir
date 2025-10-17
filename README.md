@@ -35,6 +35,12 @@ I enjoy working on structured, functional projects — the kind that make everyd
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haleemayasir&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=haleemayasir&theme=radical&border_radius=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haleemayasir&layout=compact&theme=radical)
+
 
 
 ## 🎯 Goals  
