@@ -12,19 +12,31 @@
 - 🎨 I express creativity through **video editing** and **graphic designing**  
 - 💡 Fun fact: I can spend hours adjusting layouts just to make them *feel right*  
 
-### 💻 Languages & Technologies
+## 💻 Languages & Technologies
 
 | Category | Technologies |
 |:----------|:--------------|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-bb9cd3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-9a84c3?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-a78cd9?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9579c6?style=for-the-badge&logo=csharp&logoColor=white) |
-| **Frameworks / Tools** | ![.NET](https://img.shields.io/badge/.NET-8e78c4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-b6a0d4?style=for-the-badge&logo=python&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-cdb8e5?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-b197d6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Design / Editing** | ![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-a78cd9?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-b197d6?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9a84c3?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-b6a0d4?style=for-the-badge&logo=canva&logoColor=white) |
+| **Programming** | 
+![Python](https://img.shields.io/badge/Python-bb9cd3?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-9a84c3?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-a78cd9?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9579c6?style=for-the-badge&logo=csharp&logoColor=white) |
+| **Frameworks / Tools** | 
+![.NET](https://img.shields.io/badge/.NET-8e78c4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Tkinter](https://img.shields.io/badge/Tkinter-b6a0d4?style=for-the-badge&logo=python&logoColor=white) |
+| **Web** | 
+![HTML5](https://img.shields.io/badge/HTML5-cdb8e5?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-b197d6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database** | 
+![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Design / Editing** | 
+![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-a78cd9?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Illustrator](https://img.shields.io/badge/Illustrator-b197d6?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![After Effects](https://img.shields.io/badge/After%20Effects-9a84c3?style=for-the-badge&logo=adobeaftereffects&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-b6a0d4?style=for-the-badge&logo=canva&logoColor=white) |
 
----
-
-### ⚙️ Tools I Use
+## ⚙️ Tools I Use
 
 | Development | Design & Creativity |
 |:-------------|:--------------------|
@@ -32,7 +44,7 @@
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - Data Science foundations  
 - Machine Learning algorithms  
@@ -66,8 +78,8 @@
 ### 🌷 Let’s Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haleemayasir)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-a78cd9?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haleema-yasir)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78cd9?style=for-the-badge&logo=firefox&logoColor=white)](https://www.behance.net/haleemayasir_)
 
 ---
 
