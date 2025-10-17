@@ -5,16 +5,12 @@
 🎨 Also a **video editor** and **graphic designer** who enjoys turning imagination into visuals.  
 🌸 Always curious, always creating, and always learning something new!
 
----
-
 ### ~About Me
 
 - 🎓 Studying Computer Science with a focus on *problem-solving and design thinking*. My interest is **Data Science** and **Machine Learning**. 
 - 🧠 I enjoy exploring algorithms, clean code, and new tech trends  
 - 🎨 I express creativity through **video editing** and **graphic designing**  
 - 💡 Fun fact: I can spend hours adjusting layouts just to make them *feel right*  
-
----
 
 ### 💻 Languages & Technologies
 
