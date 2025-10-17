@@ -64,7 +64,7 @@
 ### 🌷 Let’s Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haleemayasir)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haleema-yasir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haleema-yasir)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-a78cd9?style=for-the-badge&logo=firefox&logoColor=white)](https://www.behance.net/haleemayasir_)
 
 ---
