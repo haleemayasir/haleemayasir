@@ -17,7 +17,7 @@
 | Category | Technologies |
 |:----------|:--------------|
 | **Programming** | ![Python](https://img.shields.io/badge/Python-bb9cd3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-9a84c3?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-a78cd9?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9579c6?style=for-the-badge&logo=csharp&logoColor=white) |
-| **Frameworks / Libraries** | ![.NET](https://img.shields.io/badge/.NET-8e78c4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-b6a0d4?style=for-the-badge&logo=python&logoColor=white) |
+| **Frameworks / Libraries** | ![.NET](https://img.shields.io/badge/.NET-8e78c4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-b6a0d4?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-b6a0d4?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-b6a0d4?style=for-the-badge&logo=plotly&logoColor=white) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-cdb8e5?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-b197d6?style=for-the-badge&logo=css3&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
 
